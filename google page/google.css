@@ -1,0 +1,56 @@
+{
+  font-family: Arial
+  margin: auto;
+}
+
+.gmail
+{
+  margin-left:76%
+}
+.gmail
+{
+  margin-bottom:5%
+}
+.champ
+{border-radius: 10em}
+
+.micro
+{
+  margin-left:21%
+}
+
+.barredubas
+{
+  background: #F2F2F2;
+  position: absolute;
+  bottom: 0
+  width: 100%
+  paddding-bottom: 1em
+  height:2em
+}
+
+.ligne
+{
+  margin-left:5em
+}
+.droite
+{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.premier
+{
+  margin-left: 9.7em
+}
+
+.gauche
+{
+  display:flex;
+  justify-content: flex-end;
+}
+
+.deuxieme
+{
+  margin-left: 10.8em
+}
